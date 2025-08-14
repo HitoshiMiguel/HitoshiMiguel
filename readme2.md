@@ -4,7 +4,7 @@
 
 Olá! Meu nome é Miguel Hitoshi Takahashi, desenvolvedor Full Stack de 20 anos, e atualmente moro em São Paulo. Concluí o ensino médio integrado ao curso técnico em Automação Industrial na Etec Martin Luther King. Atualmente, estou cursando Desenvolvimento de Software em Multiplataforma na Fatec Zona Leste. Desde cedo sou fascinado por tecnologia e estou sempre em busca de novos aprendizados.
 
-LinkedIn: "[Miguel Takahashi](https://www.linkedin.com/in/miguel-takahashi-b01935348)"
+
 
 <p align="left">
 <a href="https://github.com/HitoshiMiguel?tab=repositories&sort=stargazers">
@@ -22,11 +22,10 @@ LinkedIn: "[Miguel Takahashi](https://www.linkedin.com/in/miguel-takahashi-b0193
         />
     </a>
 <a href="https://www.linkedin.com/in/miguel-takahashi-b01935348">
-        <img
-            alt="Linkedin"
-            title="Visite o meu perfil!"
-            src=https://custom-icon-badges.demolab.com/badge/linkedin-in?style=for-the-badge&?logo=migas1&color=%23ffff
-            "
-            />
-    </a>
+  <img 
+    alt="Linkedin" 
+    title="Visite o meu perfil!" 
+    src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=li-in-bug-meu&color=%23ffff"
+  />
+</a>
         
