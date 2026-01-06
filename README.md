@@ -21,7 +21,7 @@ Olá! Meu nome é Miguel Hitoshi Takahashi, desenvolvedor Full Stack de 20 anos,
             src="https://custom-icon-badges.demolab.com/github/followers/HitoshiMiguel?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-<a href="https://www.linkedin.com/in/miguel-takahashi-b01935348">
+<a href="https://www.linkedin.com/in/migueltakahashi/">
   <img 
     alt="Linkedin" 
     title="Visite o meu perfil!" 
@@ -78,7 +78,7 @@ Olá! Meu nome é Miguel Hitoshi Takahashi, desenvolvedor Full Stack de 20 anos,
     title = "Node.Js"
     width = "30px"
     style = "padding-right: 10px;"
-    src = "https://cdn.jsdelivr.net/npm/simple-icons@15.10.0/icons/nodedotjs.svg"
+    src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
 />
 <img 
     align="left" 
@@ -102,8 +102,18 @@ Olá! Meu nome é Miguel Hitoshi Takahashi, desenvolvedor Full Stack de 20 anos,
     title = "MySQL"
     width = "30px"
     style = "padding-right: 10px;"
-    src = "https://cdn.jsdelivr.net/npm/simple-icons@15.10.0/icons/mysql.svg"
+    src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
 />
+
+<img
+    align = "left"
+    alt = "MongoDB"
+    title = "MongoDB"
+    width = "30px"
+    style = "padding-right: 10px;"
+    src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"
+/>
+
 </br>
 </br>
 
