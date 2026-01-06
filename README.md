@@ -120,20 +120,20 @@ Olá! Meu nome é Miguel Hitoshi Takahashi, desenvolvedor Full Stack de 20 anos,
 ---
 ### 📊 Estatísticas
 
-<p>
+<div align="center">
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=HitoshiMiguel&show_icons=true&theme=blue_navy&include_all_commits=true&locale=pt-br" 
+    height="180" 
+    src="https://github-readme-stats-blush-psi-84.vercel.app/api?username=HitoshiMiguel&show_icons=true&theme=blue_navy" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=HitoshiMiguel&theme=blue_navy&layout=compact&custom_title=Linguagens e Tecnologias&langs_count=9" 
+  <img 
+    align="left"
+    alt="Top Langs" 
+    height="180"
+    src="https://github-readme-stats-blush-psi-84.vercel.app/api/top-langs/?username=HitoshiMiguel&theme=blue_navy&layout=compact&custom_title=Linguagens%20e%20Tecnologias&langs_count=9" 
   />
+</div>
 
 </p>        
